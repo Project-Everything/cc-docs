@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.16"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "node scripts/fetch-avatars.mjs && vitepress build docs",
+    "docs:preview": "node scripts/fetch-avatars.mjs && vitepress preview docs"
+  },
+  "dependencies": {
+    "@catppuccin/vitepress": "^0.1.2",
+    "axios": "^1.13.6"
+  }
+}
