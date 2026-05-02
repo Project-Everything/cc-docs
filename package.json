@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "@catppuccin/vitepress": "^0.1.2",
-    "axios": "^1.13.6"
+    "axios": "1.15.0"
   }
 }
