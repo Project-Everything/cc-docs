@@ -10,17 +10,19 @@ const AVATAR_DIR = 'docs/public/team';
 const TEAM_IDS = {
     ZavidLife: '135216817554718720',
     SpektrSoyuz: '169178866471010304',
-    Moonerino: '356116821117501441',
+    //Moonerino: '356116821117501441',
     GH5T: '324283333984911361',
-    Crowblers: '372572423855407116',
-    MarshTheFish: '654363075473834005',
+    //Crowblers: '372572423855407116',
+    //MarshTheFish: '654363075473834005',
     xBumbleBee: '602685363521060897',
-    _boat_man: '576845382848610324',
+    //_boat_man: '576845382848610324',
     Lil2Nun: '333505889245986816',
     Treasure_Man: '332699304835940354',
     MssrM00ny: '324116587059740673',
     Scorch5000: '397089429421817859',
-    Jeffster1235: '500036670738006026'
+    Jeffster1235: '500036670738006026',
+    nanashakusama_: '1012676258884243557',
+    elaine0204: '532708251704360981'
 };
 
 async function downloadAvatar(name, id) {

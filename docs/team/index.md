@@ -32,25 +32,16 @@ const owners = [
   }
 ];
 
-const mods = [
-  {
-    avatar: '/team/Moonerino.png',
-    name: 'Moonerino',
-    title: 'Moderator',
-    links: []
-  },
+const admins = [
   {
     avatar: '/team/GH5T.png',
     name: 'GH5T',
-    title: 'Moderator',
+    title: 'Admin',
     links: []
-  },
-  {
-    avatar: '/team/Crowblers.png',
-    name: 'Crowblers',
-    title: 'Moderator, Builder',
-    links: []
-  },
+  }
+];
+
+const mods = [
   {
     avatar: '/team/xBumbleBee.png',
     name: 'xBumbleBee',
@@ -60,18 +51,6 @@ const mods = [
 ];
 
 const helpers = [
-  {
-    avatar: '/team/MarshTheFish.png',
-    name: 'MarshTheFish',
-    title: 'Helper',
-    links: []
-  },
-  {
-    avatar: '/team/_boat_man.png',
-    name: '_boat_man',
-    title: 'Helper',
-    links: []
-  },
   {
     avatar: '/team/Lil2Nun.png',
     name: 'Lil2Nun',
@@ -104,6 +83,18 @@ const content_team = [
     name: 'Scorch5000',
     title: 'Developer',
     links: []
+  },
+  {
+    avatar: '/team/nanashakusama_.png',
+    name: 'nanashakusama_',
+    title: 'Advertiser',
+    links: []
+  },
+  {
+    avatar: '/team/elaine0204.png',
+    name: 'elaine0204',
+    title: 'Advertiser',
+    links: []
   }
 ];
 </script>
@@ -114,6 +105,13 @@ const content_team = [
     <template #lead>...</template>
   </VPTeamPageTitle>
   <VPTeamMembers :members="owners"></VPTeamMembers>
+  <VPTeamPageSection>
+    <template #title>Admins</template>
+    <template #lead>...</template>
+    <template #members>
+      <VPTeamMembers size="small" :members="admins"></VPTeamMembers>
+    </template>
+  </VPTeamPageSection>
   <VPTeamPageSection>
     <template #title>Mods</template>
     <template #lead>...</template>
