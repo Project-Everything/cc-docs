@@ -59,5 +59,5 @@ View our purchasable ranks [here](../rank/index.md).
 
 ## Reports
 
-We have a ticket system to ask for help or report a player. View the `/tickets` channel in our Discord server to create
+We have a ticket system to ask for help or report a player. View the `#tickets` channel in our Discord server to create
 a new ticket. A temporary text channel will be created where you can provide information for the issue.
