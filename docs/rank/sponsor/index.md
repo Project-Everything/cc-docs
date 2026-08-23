@@ -7,6 +7,8 @@ title: Sponsor
 
 ![Sponsor](../../public/rank/sponsor.png){width=300px}
 
+Click [here](https://store.creative-central.net/category/480964) to purchase Sponsor.
+
 Purchase Sponsor to receive the following perks:
 
 ## Global

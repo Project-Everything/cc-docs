@@ -11,15 +11,16 @@ CC is a small Minecraft community server with the goal of creating a safe and fu
 consistently expanding and improving the server with new experiences and features. Currently, we offer three game modes
 (Plots, Earth, and Islands).
 
+View our official rules [here](../rules/index.md)
+
 Join our official Discord server [here](https://discord.gg/Hpg5K7wgUb).
 
 ## How to Play
 
 Join our server using the IP address `play.creative-central.net`.
 
-You can access each of our different game modes by
-right-clicking on their respective NPCs in our Hub server, or by using the direct command, i.e., `/plots`, `/earth`,
-etc.
+You can access each of our different game modes by right-clicking on their respective NPCs in our Hub server, or by
+using the direct command, i.e., `/plots`, `/earth`, etc.
 
 ## General Commands
 
@@ -50,8 +51,8 @@ are used to purchase cosmetics and do not benefit the player.
 
 ## Ranks
 
-Creative Central is a strictly non pay-to-win or microtransaction server. We offer Sponsor ranks for those who
-wish to support us and receive exclusive cosmetic perks! Contributing financially is not required, but it helps us
-maintain and improve the server.
+Creative Central is a strictly non-pay-to-win or microtransaction server. We offer Sponsor ranks for those who wish to
+support us and receive exclusive cosmetic perks! Contributing financially is not required, but it helps us maintain and
+improve the server.
 
 View our purchasable ranks [here](../rank/index.md).
