@@ -14,7 +14,50 @@ conquer custom structures, establish settlements, and work your way up to ruling
 
 ## How to Play
 
-(WIP)
+You can get started on CC Earth by creating a town using `/town create <name>`. This costs 64 gold ingots and will claim
+a single 16x16 chunk where you are standing.
+
+## Useful Commands
+
+### General Commands
+
+- `/map` : View a map of CC Earth
+- `/history-wiki` : View a wiki of CC Earth's history
+
+### Town Commands
+
+- `/town` : View information about your town
+- `/town create <name>` : Creates a new town
+- `/town spawn` : Teleports you to the spawn location of your town
+- `/town spawn <name>` : Teleports you to the spawn location of the specified town
+- `/town claim` : Claims the chunk you are currently in for your town
+    - The chunk must be adjacent to a chunk already claimed by your town
+- `/town deposit <amount>` : Deposits the specified amount of gold into your town's bank account
+- `/town withdraw <amount>` : Withdraws the specified amount of gold from your town's bank account
+- `/town add <username>` : Invites a player to your town
+- `/town kick <username>` : Kicks a player from your town
+- `/town delete` : Deletes your town
+- `/town list` : View a list of all towns on Earth
+
+### Nation Commands
+
+- `/nation` : View information about your nation
+- `/nation join <name>` : Joins a nation
+- `/nation create <name>` : Creates a new nation
+- `/nation disband` : Disbands your nation
+- `/nation invite <town>` : Invites a player to your nation
+- `/nation kick <town>` : Kicks a player from your nation
+- `/nation list` : View a list of all nations on Earth
+- `/nation deposit <amount>` : Deposits the specified amount of gold into your nation's bank account
+- `/nation withdraw <amount>` : Withdraws the specified amount of gold from your nation's bank account
+
+### Chest Shop
+
+WIP
+
+### Block Locker
+
+WIP
 
 ## Towny Prices
 

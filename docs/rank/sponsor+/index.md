@@ -7,9 +7,11 @@ title: Sponsor+
 
 ![Sponsor+](../../public/rank/sponsor+.png){width=300px}
 
+Click [here](https://store.creative-central.net/category/480964) to purchase Sponsor+.
+
 Sponsor+ receives all existing perks from the Sponsor [$10] rank.
 
-Purchase Sponsor+ to receive the following perks:
+Purchase Sponsor+ to receive the following <i>additional</i> perks:
 
 ## Global
 
