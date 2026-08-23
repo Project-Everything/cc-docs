@@ -3,6 +3,10 @@ layout: doc
 title: Plots
 ---
 
+![Plots Spawn](../../server/plots-banner.png)
+
+---
+
 # {{ $frontmatter.title }}
 
 CC Plots is our official Creative Plots server. Claim an empty 512x512 area and start creating anything from small

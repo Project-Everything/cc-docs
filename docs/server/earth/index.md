@@ -3,6 +3,10 @@ layout: doc
 title: Earth
 ---
 
+![Forks, Washington](../../server/earth-banner.png)
+
+---
+
 # {{ $frontmatter.title }}
 
 CC Earth is a Geopolitical Towny survival server based on a 1:500 scale map of the actual Earth. Explore the world,

@@ -3,6 +3,10 @@ layout: doc
 title: Islands
 ---
 
+![Islands Spawn](../../server/islands-banner.png)
+
+---
+
 # {{ $frontmatter.title }}
 
 CC Islands is our official take on the popular OneBlock game mode. Claim your island and progress through the game block
