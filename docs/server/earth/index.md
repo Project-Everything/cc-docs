@@ -3,7 +3,7 @@ layout: doc
 title: Earth
 ---
 
-![Forks, Washington](../../server/earth-banner.png)
+![Forks, Washington](/server/earth-banner.png)
 
 ---
 

@@ -62,6 +62,12 @@ const helpers = [
     name: 'Jeffster1235',
     title: 'Helper',
     links: []
+  },
+  {
+    avatar: '/team/Moonerino.png',
+    name: 'Moonerino',
+    title: 'Helper',
+    links: []
   }
 ];
 
@@ -79,12 +85,6 @@ const content_team = [
     links: []
   },
   {
-    avatar: '/team/Scorch5000.png',
-    name: 'Scorch5000',
-    title: 'Developer',
-    links: []
-  },
-  {
     avatar: '/team/nanashakusama_.png',
     name: 'nanashakusama_',
     title: 'Advertiser',
@@ -94,6 +94,18 @@ const content_team = [
     avatar: '/team/elaine0204.png',
     name: 'elaine0204',
     title: 'Advertiser',
+    links: []
+  },
+  {
+    avatar: '/team/cationic.png',
+    name: 'cationic',
+    title: 'Advertiser',
+    links: []
+  },
+  {
+    avatar: '/team/aPandaOnceSaid.png',
+    name: 'aPandaOnceSaid',
+    title: 'Builder, Developer',
     links: []
   }
 ];

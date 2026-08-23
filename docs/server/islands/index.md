@@ -3,7 +3,7 @@ layout: doc
 title: Islands
 ---
 
-![Islands Spawn](../../server/islands-banner.png)
+![Islands Spawn](/server/islands-banner.png)
 
 ---
 

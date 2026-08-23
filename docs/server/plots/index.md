@@ -3,7 +3,7 @@ layout: doc
 title: Plots
 ---
 
-![Plots Spawn](../../server/plots-banner.png)
+![Plots Spawn](/server/plots-banner.png)
 
 ---
 
