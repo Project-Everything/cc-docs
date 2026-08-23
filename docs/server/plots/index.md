@@ -21,6 +21,7 @@ players to build and create anything they desire.
 
 ### General Commands
 
+- `/spawn` : Teleport to the server spawn
 - `//wand` : Receive a WorldEdit wand
 - `/headdatabase | /hdb` : View a list of available player heads for building
 - `/co inspect` : Enable/disable inspection mode, which allows you to see who modified blocks on your plot
