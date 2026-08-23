@@ -19,6 +19,15 @@ players to build and create anything they desire.
 
 ## Useful Commands
 
+### General Commands
+
+- `//wand` : Receive a WorldEdit wand
+- `/headdatabase | /hdb` : View a list of available player heads for building
+- `/co inspect` : Enable/disable inspection mode, which allows you to see who modified blocks on your plot
+    - Left-click or right-click to inspect blocks
+
+### Plot Commands
+
 - `/plot home` : Teleports you to your plot's home location
 - `/plot home <number>` : Teleports you to the home location of your xth plot
 - `/plot visit <player>` : Teleports you to the plot of another player
@@ -36,7 +45,5 @@ players to build and create anything they desire.
 - `/plot set biome` : Sets the biome of your plot
 - `/plot flag set` : Sets a custom flag on your plot.
     - Use `/plot flag list` to see a list of available flags
-- `/co inspect` : Enable/disable inspection mode, which allows you to see who modified blocks on your plot
-    - Left-click or right-click to inspect blocks
 
 Sponsor and Sponsor+ players can use `/plot merge` to merge multiple plots into one.

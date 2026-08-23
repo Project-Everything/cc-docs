@@ -11,7 +11,7 @@ CC is a small Minecraft community server with the goal of creating a safe and fu
 consistently expanding and improving the server with new experiences and features. Currently, we offer three game modes
 (Plots, Earth, and Islands).
 
-View our official rules [here](../rules/index.md)
+View our official rules [here](../rules/index.md).
 
 Join our official Discord server [here](https://discord.gg/Hpg5K7wgUb).
 
