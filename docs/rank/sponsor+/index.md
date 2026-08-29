@@ -21,14 +21,10 @@ Purchase Sponsor+ to receive the following <i>additional</i> perks:
 
 ## Plots
 
-- **+4 Plots:** Receive 4 additional plots for purchasing Sponsor+
-    - Additional plots will stack with plots given by previous purchases
-- **+5 Plot Rank Slots:** Receive 5 additional plot rank slots for purchasing Sponsor+
-    - Additional slots will stack with slots given by previous purchases
-- **+5 Plot Warp Slots:** Receive 5 additional plot rank slots for purchasing Sponsor+
-    - Additional slots will stack with slots given by previous purchases
-- **+5 Plot Announcement Slots:** Receive 5 additional plot rank slots for purchasing Sponsor+
-    - Additional slots will stack with slots given by previous purchases
+- **+4 Plots:** Receive 4 additional plots
+- **+5 Plot Rank Slots:** Receive 5 additional plot rank slots
+- **+5 Plot Warp Slots:** Receive 5 additional plot warp slots
+- **+5 Plot Announcement Slots:** Receive 5 additional plot announcement slots
 
 ## Islands
 

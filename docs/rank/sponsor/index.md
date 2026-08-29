@@ -22,6 +22,7 @@ Purchase Sponsor to receive the following perks:
 - **/rename:** Set a custom name for an item in your main hand
 - **/hat:** Set a block or item as your hat
 - **/itf:** Toggle item frame visibility or glowing effect
+- **Item Sharing**: Share a held item in chat by typing in your message
 
 ## Plots
 
@@ -32,14 +33,10 @@ Purchase Sponsor to receive the following perks:
 - **/speed:** Set your player's walk speed and flight speed
 - **/tpatoggle:** Toggle receiving teleport requests
 - **/plot merge:** Merge multiple adjacent plots into one super-plot
-- **+4 Plots:** Receive 4 additional plots for purchasing Sponsor
-    - Additional plots will stack with plots given by previous purchases
-- **+5 Plot Rank Slots:** Receive 5 additional plot rank slots for purchasing Sponsor
-    - Additional slots will stack with slots given by previous purchases
-- **+5 Plot Warp Slots:** Receive 5 additional plot rank slots for purchasing Sponsor
-    - Additional slots will stack with slots given by previous purchases
-- **+5 Plot Announcement Slots:** Receive 5 additional plot rank slots for purchasing Sponsor
-    - Additional slots will stack with slots given by previous purchases
+- **+4 Plots:** Receive 4 additional plots
+- **+5 Plot Rank Slots:** Receive 5 additional plot rank slots
+- **+5 Plot Warp Slots:** Receive 5 additional plot warp slots
+- **+5 Plot Announcement Slots:** Receive 5 additional plot announcement slots
 
 ## Earth
 
