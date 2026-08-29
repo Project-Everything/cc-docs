@@ -14,7 +14,7 @@ Purchase Sponsor to receive the following perks:
 ## Global
 
 - **Prefix:** Receive a unique [Sponsor] prefix in chat, displaying your rank
-- **Color:** Use custom colors and formatting in /description and /nickname
+- **Color:** Use custom colors and formatting in the `/description | /bio` and `/nickname | /rpname` commands
 - **/displayname:** Change the color of your username in chat using hex codes
     - Aliases: /name
 - **/pp:** Create and edit custom player particles
@@ -31,18 +31,21 @@ Purchase Sponsor to receive the following perks:
 - **/top:** Teleport to the highest block above you
 - **/speed:** Set your player's walk speed and flight speed
 - **/tpatoggle:** Toggle receiving teleport requests
+- **/plot merge:** Merge multiple adjacent plots into one super-plot
 - **+4 Plots:** Receive 4 additional plots for purchasing Sponsor
     - Additional plots will stack with plots given by previous purchases
-- **/plot merge:** Merge multiple adjacent plots into one super-plot
+- **+5 Plot Rank Slots:** Receive 5 additional plot rank slots for purchasing Sponsor
+    - Additional slots will stack with slots given by previous purchases
+- **+5 Plot Warp Slots:** Receive 5 additional plot rank slots for purchasing Sponsor
+    - Additional slots will stack with slots given by previous purchases
+- **+5 Plot Announcement Slots:** Receive 5 additional plot rank slots for purchasing Sponsor
+    - Additional slots will stack with slots given by previous purchases
 
 ## Earth
 
 - **Towny Colors:** Use custom colors and formatting when setting titles for Residents
-- **/randomtp:** Teleport to a random location (15-minute cooldown)
-- **/deposit auto:** Automatically deposit gold into your bank when picking it up
-- **/withdraw auto:** Automatically withdraw gold from your bank
 
 ## Islands
 
 - **/deposit auto:** Automatically deposit EXP bottles into your bank when picking them up
-- **/withdraw auto:** Automatically withdraw EXP bottles from bank
+- **/withdraw auto:** Automatically withdraw EXP bottles from your bank
