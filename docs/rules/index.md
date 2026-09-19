@@ -21,7 +21,7 @@ You must follow the terms of service of the platform you are playing on.
 #### 2. Be Respectful
 
 No hate speech, discrimination, homophobia, racism, harassment, or doxing.
-Excessively trolling and rage-baiting is not allowed.
+Excessive trolling and rage-baiting are not allowed.
 Keep debates civil; staff will shut them down if they get too heated.
 
 #### 3. Keep it SFW
@@ -61,7 +61,7 @@ Griefing is a bannable offense with no warning.
 
 #### 9. External Mods
 
-Only harmless client-side mods used for quality of life (Xaero's Minimap, Optifine, Sodium, etc.) or building (eg.,
+Only harmless client-side mods used for quality of life (Xaero's Minimap, Optifine, Sodium, etc.) or building (e.g.,
 Litematica, Litematica Printer, etc.) are allowed.
 
 #### 10. Hacked Clients
@@ -70,7 +70,8 @@ Hacked clients or client-side mods that give you a gameplay advantage are forbid
 
 #### 11. No Server Lagging
 
-Attempting to intentionally lag or crash the server will result in a permanent ban.
+Attempting to intentionally lag or crash the server can result in a temporary or permanent ban depending on the
+severity.
 
 #### 12. IRL Trading
 
@@ -93,7 +94,7 @@ PVP is only allowed in designated zones.
 Killing players in neutral areas via traps (lava, spleefing, etc.) is not allowed.
 
 > Designated zones on each server:
-> - Earth: The End, The Arena, PVP-enabled towns, Ruined towns, and Arena plots
+> - Earth: The End (beyond the main island), The Arena, PVP-enabled towns, Ruined towns, and Arena plots
 > - Islands: The Arena
 
 #### 16. Farms & Exploits
