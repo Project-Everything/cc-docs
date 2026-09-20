@@ -68,7 +68,7 @@ export default defineConfig({
             }
         ],
         socialLinks: [
-            {icon: 'discord', link: 'https://discord.gg/XUNqRAm9aA'},
+            {icon: 'discord', link: 'https://discord.gg/eu2yRxu8Ps'},
             {icon: 'tiktok', link: 'https://www.tiktok.com/@projecteverythingmain'},
             {icon: 'x', link: 'https://x.com/Zilevola'},
             {icon: 'youtube', link: 'https://youtube.com/@projecteverythingmain'}
