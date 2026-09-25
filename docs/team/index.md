@@ -68,7 +68,13 @@ const helpers = [
     name: 'Moonerino',
     title: 'Helper',
     links: []
-  }
+  },
+  {
+    avatar: '/team/MarshTheFish.png',
+    name: 'MarshTheFish',
+    title: 'Helper',
+    links: []
+  },
 ];
 
 const content_team = [
@@ -81,24 +87,6 @@ const content_team = [
   {
     avatar: '/team/MssrM00ny.png',
     name: 'MssrM00ny',
-    title: 'Advertiser',
-    links: []
-  },
-  {
-    avatar: '/team/nanashakusama_.png',
-    name: 'nanashakusama_',
-    title: 'Advertiser',
-    links: []
-  },
-  {
-    avatar: '/team/elaine0204.png',
-    name: 'elaine0204',
-    title: 'Advertiser',
-    links: []
-  },
-  {
-    avatar: '/team/cationic.png',
-    name: 'cationic',
     title: 'Advertiser',
     links: []
   },
