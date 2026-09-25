@@ -17,13 +17,14 @@ Purchase Sponsor+ to receive the following <i>additional</i> perks:
 
 - **Prefix:** Receive a unique [Sponsor+] prefix in chat, displaying your rank
 - **Sponsor+ Color:** Set a custom color for the `+` in your rank prefix
+    - Example: `/sponsor color #800020`
 - **Message Color:** Use custom colors and formatting in /message
 
 ## Plots
 
-- **+4 Plots:** Receive 4 additional plots
 - **+5 Plot Rank Slots:** Receive 5 additional plot rank slots
-- **+5 Plot Warp Slots:** Receive 5 additional plot warp slots
+- **+5 Plot Waypoint Slots:** Receive 5 additional plot waypoint slots
+- **+5 Plot Role Slots:** Receive 5 additional plot role slots
 - **+5 Plot Announcement Slots:** Receive 5 additional plot announcement slots
 
 ## Islands

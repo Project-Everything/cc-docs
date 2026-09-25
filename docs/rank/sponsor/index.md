@@ -17,8 +17,11 @@ Purchase Sponsor to receive the following perks:
 - **Color:** Use custom colors and formatting in the `/description | /bio` and `/nickname | /rpname` commands
 - **/displayname:** Change the color of your username in chat using hex codes
     - Aliases: /name
+    - Example: `/displayname <#FF0000>SpektrSoyuz`
+    - See [MiniMessage Viewer](https://webui.advntr.dev/) for help with formatting
 - **/pp:** Create and edit custom player particles
 - **/recolor:** Set the color of a leather item in your main hand
+    - Example: `/recolor FF0000`
 - **/rename:** Set a custom name for an item in your main hand
 - **/hat:** Set a block or item as your hat
 - **/itf:** Toggle item frame visibility or glowing effect
@@ -33,9 +36,10 @@ Purchase Sponsor to receive the following perks:
 - **/speed:** Set your player's walk speed and flight speed
 - **/tpatoggle:** Toggle receiving teleport requests
 - **/plot merge:** Merge multiple adjacent plots into one super-plot
-- **+4 Plots:** Receive 4 additional plots
+- **+3 Plots:** Receive 3 additional plots
 - **+5 Plot Rank Slots:** Receive 5 additional plot rank slots
-- **+5 Plot Warp Slots:** Receive 5 additional plot warp slots
+- **+5 Plot Waypoint Slots:** Receive 5 additional plot waypoint slots
+- **+5 Plot Role Slots:** Receive 5 additional plot role slots
 - **+5 Plot Announcement Slots:** Receive 5 additional plot announcement slots
 
 ## Earth
