@@ -33,12 +33,7 @@ const owners = [
 ];
 
 const admins = [
-  {
-    avatar: '/team/GH5T.png',
-    name: 'GH5T',
-    title: 'Admin',
-    links: []
-  }
+  
 ];
 
 const mods = [
