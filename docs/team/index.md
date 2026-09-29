@@ -47,12 +47,6 @@ const mods = [
 
 const helpers = [
   {
-    avatar: '/team/Lil2Nun.png',
-    name: 'Lil2Nun',
-    title: 'Helper',
-    links: []
-  },
-  {
     avatar: '/team/Jeffster1235.png',
     name: 'Jeffster1235',
     title: 'Helper',
