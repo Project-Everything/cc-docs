@@ -114,6 +114,6 @@ a specific number of residents and will unlock additional features (such as Town
 |   V   |       20       |       4.0       |        160        |       2       |
 |  VI   |       30       |       5.0       |        192        |       3       |
 |  VII  |       40       |       6.0       |        224        |       3       |
-| VIII  |       50       |       7.0       |        256        |       3       |
-|  IX   |       60       |       8.0       |        288        |       3       |
-|   X   |       70       |       9.0       |        320        |       3       |
+| VIII  |       50       |       7.0       |        256        |       4       |
+|  IX   |       60       |       8.0       |        288        |       4       |
+|   X   |       70       |       9.0       |        320        |       5       |
