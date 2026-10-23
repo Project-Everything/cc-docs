@@ -67,18 +67,19 @@ WIP
 
 Listed below are the base prices for Towny.
 
-|           Item           |  Price   |
-|:------------------------:|:--------:|
-|         New Town         | 64 gold  |
-|        New Nation        | 320 gold |
-|       Town Reclaim       | 256 gold |
-|       Town Upkeep        |  8 gold  |
-|      Nation Upkeep       | 16 gold  |
-|  Purchasable Town Block  | 32 gold  |
-|         Outpost          | 256 gold |
-| Per Outpost Town Upkeep¹ | 4.0 gold | 
+|          Item           |  Price   |
+|:-----------------------:|:--------:|
+|        New Town         | 64 gold  |
+|       New Nation        | 256 gold |
+|      Town Reclaim       | 128 gold |
+|       Town Upkeep       |  8 gold  |
+|      Nation Upkeep      | 16 gold  |
+| Purchasable Town Block  | 32 gold  |
+|         Outpost         | 256 gold |
+| Per Outpost Town Upkeep |  0 gold  |
+|       Overclaim¹        | 16 gold  |
 
-¹ Each outpost will increase the Town Upkeep by 4.0 gold.
+¹ Overclaim is calculated once and does not increase with additional plots.
 
 ## Town & Nation Levels
 
@@ -109,14 +110,11 @@ a specific number of residents and will unlock additional features (such as Town
 |:-----:|:--------------:|:---------------:|:-----------------:|:-------------:|
 |   I   |       1        |       1.0       |        32         |       0       |
 |  II   |       5        |       1.0       |        64         |       1       |
-|  III  |       10       |       2.0       |        96         |       1       |
-|  IV   |       15       |       3.0       |        128        |       2       |
-|   V   |       20       |       4.0       |        160        |       2       |
-|  VI   |       30       |       5.0       |        192        |       3       |
-|  VII  |       40       |       6.0       |        224        |       3       |
-| VIII  |       50       |       7.0       |        256        |       4       |
-|  IX   |       60       |       8.0       |        288        |       4       |
-|   X   |       70       |      10.0       |        320        |       5       |
-|  XI   |       80       |      12.0       |        352        |       5       |
-|  XII  |       90       |      14.0       |        384        |       5       |
-| XIII  |      100       |      16.0       |        416        |       5       |
+|  III  |       10       |       1.0       |        96         |       2       |
+|  IV   |       15       |       1.0       |        128        |       3       |
+|   V   |       20       |       1.0       |        160        |       4       |
+|  VI   |       30       |       1.0       |        192        |       4       |
+|  VII  |       40       |       1.0       |        224        |       5       |
+| VIII  |       60       |       1.0       |        256        |       5       |
+|  IX   |       80       |       1.0       |        288        |       6       |
+|   X   |      100       |       1.0       |        320        |       6       |
