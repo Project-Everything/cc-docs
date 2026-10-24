@@ -10,10 +10,8 @@ const AVATAR_DIR = 'docs/public/team';
 const TEAM_IDS = {
     ZavidLife: '135216817554718720',
     SpektrSoyuz: '169178866471010304',
-    Moonerino: '356116821117501441',
     MarshTheFish: '654363075473834005',
     xBumbleBee: '602685363521060897',
-    Lil2Nun: '333505889245986816',
     Treasure_Man: '332699304835940354',
     MssrM00ny: '324116587059740673',
     Jeffster1235: '500036670738006026',

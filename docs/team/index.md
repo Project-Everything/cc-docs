@@ -47,26 +47,26 @@ const mods = [
 
 const helpers = [
   {
-    avatar: '/team/Jeffster1235.png',
-    name: 'Jeffster1235',
-    title: 'Helper',
-    links: []
-  },
-  {
-    avatar: '/team/Moonerino.png',
-    name: 'Moonerino',
-    title: 'Helper',
-    links: []
-  },
-  {
     avatar: '/team/MarshTheFish.png',
     name: 'MarshTheFish',
     title: 'Helper',
     links: []
   },
+  {
+    avatar: '/team/Jeffster1235.png',
+    name: 'Jeffster1235',
+    title: 'Helper',
+    links: []
+  }
 ];
 
 const content_team = [
+  {
+    avatar: '/team/aPandaOnceSaid.png',
+    name: 'aPandaOnceSaid',
+    title: 'Builder, Developer',
+    links: []
+  },
   {
     avatar: '/team/Treasure_Man.png',
     name: 'Treasure_Man',
@@ -77,12 +77,6 @@ const content_team = [
     avatar: '/team/MssrM00ny.png',
     name: 'MssrM00ny',
     title: 'Advertiser',
-    links: []
-  },
-  {
-    avatar: '/team/aPandaOnceSaid.png',
-    name: 'aPandaOnceSaid',
-    title: 'Builder, Developer',
     links: []
   }
 ];
